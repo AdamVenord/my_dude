@@ -1,0 +1,2 @@
+class Dude < ApplicationRecord
+end
